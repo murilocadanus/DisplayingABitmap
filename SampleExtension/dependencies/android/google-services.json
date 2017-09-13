@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "573861609233",
+    "firebase_url": "https://cat-game-72bbb.firebaseio.com",
+    "project_id": "cat-game-72bbb",
+    "storage_bucket": "cat-game-72bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573861609233:android:c38663b155e762df",
+        "android_client_info": {
+          "package_name": "com.minogames.pushcat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573861609233-eu1tv5e2baonm4lk17j1evfnifpk62h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minogames.pushcat",
+            "certificate_hash": "a51a8984a95cb7136d7c2820c565a4f497e49899"
+          }
+        },
+        {
+          "client_id": "573861609233-9rm433rv583tb6nvq70r00sm6k4g7o5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHSgOMTyn47l2s6zeoDBFS726PK54k9k"
+        },
+        {
+          "current_key": "AIzaSyBClQqYgEBAll0XPOjoMmpr2V8ipoeIvZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573861609233-9rm433rv583tb6nvq70r00sm6k4g7o5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573861609233:android:b653c45c322abcb2",
+        "android_client_info": {
+          "package_name": "com.minogames.cat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573861609233-kb7h82jeiisoo92pbko98b4beimlqbk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minogames.cat",
+            "certificate_hash": "a51a8984a95cb7136d7c2820c565a4f497e49899"
+          }
+        },
+        {
+          "client_id": "573861609233-9rm433rv583tb6nvq70r00sm6k4g7o5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHSgOMTyn47l2s6zeoDBFS726PK54k9k"
+        },
+        {
+          "current_key": "AIzaSyBClQqYgEBAll0XPOjoMmpr2V8ipoeIvZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573861609233-9rm433rv583tb6nvq70r00sm6k4g7o5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573861609233:android:78fc4e16bb1c1b4e",
+        "android_client_info": {
+          "package_name": "com.minogames.cat.sampleextension"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573861609233-9rm433rv583tb6nvq70r00sm6k4g7o5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHSgOMTyn47l2s6zeoDBFS726PK54k9k"
+        },
+        {
+          "current_key": "AIzaSyBClQqYgEBAll0XPOjoMmpr2V8ipoeIvZE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<ndll name="sampleextension" />
+	
+	<!-- Use the following for an Android Java extension, not needed otherwise -->
+	
+	<dependency name="sampleextension" path="dependencies/android" if="android" />
+	<android extension="com.minogames.cat.SampleExtension" />
+	
+</project>

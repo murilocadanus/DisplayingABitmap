@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Displaying a Bitmap" package="com.minogames.display" version="1.0.0" company="OpenFL" />
+	<app main="Main" path="Export" file="DisplayingABitmap" />
+	<!--haxedef name="ANDROID_PUBLIC_KEY" value="MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoCgLenM9sHlZuJG9EpXHXuUDOzLuqtN8bnOElbe25W3xC9pSfQ/Tgw70rECnGLaSPrUverxAphceaPWW0gqA3Q/FnFsGfjMlcAsvCnF4JonizGPWnj7ysmYe3/+5TKcyvytR3zvcyTIzZpivKntk5so04sU47ZeaZ0KrPIGxIYlt/P+Mx8cFr56Wy5f4/FI7O0kiBJko7eUn9R51PVxqTyLjezsH0P2NqhDS9m0yF1gsV/dQENK0IaOM2YpjtgGi/Q3ckTtmoUbImrsJDhtl1zELo3TTC9GTzDHgYyn/E6tXC1KwErv6JLLIlJsJDXt6HyWGJpxNNoeXomGc+hZzgQIDAQAB"/-->
+
+	<source path="Source" />
+
+	<haxelib name="openfl" />
+
+	<assets path="Assets" rename="assets" />
+
+	<include path="SampleExtension" />
+</project>
